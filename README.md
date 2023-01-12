@@ -37,6 +37,4 @@ User is not logged and no error appears.
 
 User: carmina & Pass: 123456
 
-**Status**
-NEW(NEW,IN PROGRESS,DONE,REOPEN)
 --------------------------------
