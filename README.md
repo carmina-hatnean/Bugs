@@ -3,7 +3,7 @@
 Below are some Bug Reports samples that I wrote while working on previous projects.
 
 ------------
-## First Bug Report 
+## Bug Report 1 
 
 **Priority and severity**
 
