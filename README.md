@@ -35,6 +35,8 @@ User is not logged and no error appears.
 
 **Test data**
 
-User: carmina & app:123456
+User: carmina & Pass: 123456
 
+**Status**
+NEW(NEW,IN PROGRESS,DONE,REOPEN)
 --------------------------------
