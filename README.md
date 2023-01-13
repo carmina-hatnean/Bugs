@@ -183,4 +183,33 @@ We don't have a custome 404 page.
 ![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
 
 -------------------
+## Bug Report 7 - Responsive
 
+**Priority and severity**
+
+P4 - Normal
+
+**Description**
+
+
+
+**Steps to reproduce**
+
+1. Go to https://www.primariatechirghiol.ro/
+2. Type F12
+3. Click on Responsive Icon
+
+
+**Expected result**
+
+We expected to have a responsive website.
+
+**Actual result**
+
+
+
+
+![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
+
+
+-----------------
