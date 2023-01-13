@@ -106,7 +106,7 @@ P4 - Normal
 
 **Description**
 
-When trying to refresh the website this reload slow.
+Website performance is low. When I trying to refresh the website this reload slow. The resources are too large and make it difficult to load the site.
 
 **Steps to reproduce**
 
