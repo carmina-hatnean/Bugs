@@ -96,4 +96,39 @@ Have this error in the console "Failed to load resource: the server responded wi
 
 ![favicon 1](https://user-images.githubusercontent.com/85248462/212406487-632528a2-171f-49f2-9011-dd9cb9b8b102.png)
 
+----------------------
+
+## Bug Report 3 - Page load time too long
+
+**Priority and severity**
+
+P4 - Normal
+
+**Description**
+
+When trying to refresh the website this reload slow.
+
+**Steps to reproduce**
+
+1. Go to http://www.primaria-constanta.ro/
+2. Type F12
+3. Click on Console
+4. Check Preserve log
+5. Check Disable cache
+6. Check all
+7. Type CTRL + F5
+
+**Expected result**
+
+The website should have a loading time of approximately 2 seconds.
+
+**Actual result**
+
+The website has a loading time of 9,74 seconds.
+
+![bug - load time](https://user-images.githubusercontent.com/85248462/212410108-19020fd0-5900-4e83-8e5b-a47fdef303bb.png)
+
+
+
+
 
