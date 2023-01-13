@@ -156,7 +156,7 @@ We have five broken links.
 
 --------------------------
 
-## Bug Report 5 - 404 Page
+## Bug Report 6 - 404 Page
 
 **Priority and severity**
 
