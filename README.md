@@ -154,4 +154,33 @@ We have five broken links.
 
 ![Broken link](https://user-images.githubusercontent.com/85248462/212412710-e74802df-aacd-4fee-aac5-430631cce926.png)
 
+--------------------------
+
+## Bug Report 5 - 404 Page
+
+**Priority and severity**
+
+P4 - Normal
+
+**Description**
+
+
+
+**Steps to reproduce**
+
+1. Go to http://www.primaria-constanta.ro/
+2. Go to http://www.primaria-constanta.ro/asdfghjkl
+
+**Expected result**
+
+We expected to have a custome 404 page.
+
+**Actual result**
+
+We don't have a custome 404 page.
+
+
+![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
+
+-------------------
 
