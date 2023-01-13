@@ -98,7 +98,7 @@ Have this error in the console "Failed to load resource: the server responded wi
 
 ----------------------
 
-## Bug Report 3 - Page load time too long
+## Bug Report 4 - Page load time too long
 
 **Priority and severity**
 
@@ -128,7 +128,7 @@ The website has a loading time of 9,74 seconds.
 
 ![bug - load time](https://user-images.githubusercontent.com/85248462/212410108-19020fd0-5900-4e83-8e5b-a47fdef303bb.png)
 
-
+-----------------------
 
 
 
