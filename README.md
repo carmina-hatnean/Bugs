@@ -208,8 +208,9 @@ We expected to have a responsive website.
 
 
 
+![not responsive](https://user-images.githubusercontent.com/85248462/212416126-fd5ea943-1c66-4bd3-b366-b2b10234e601.png)
 
-![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
+
 
 
 -----------------
