@@ -39,3 +39,30 @@ User is not logged and no error appears.
 User: carmina & Pass: 123456
 
 --------------------------------
+## Bug Report 2 - Broken layout on Facebook Market
+
+**Priority and severity**
+
+P2 - High
+
+**Description**
+
+The Facebook Marketplace page should have the items arranged and spaced so that is easy to browse.
+This doesn't happen as no spacing is present around the images and the text is broken too.
+
+
+**Steps to reproduce**
+
+1. Login to Facebook
+2. Go to Marketplace
+
+**Expected result**
+
+All items in the Marketplace should have proper spacing between them.
+
+
+**Actual result**
+
+Items in the Marketplace page don't have spacing and the text is broken.
+
+![alt text](C:\Users\cosmi\OneDrive\Desktop\bug report2.png)
