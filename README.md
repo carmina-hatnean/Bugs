@@ -65,4 +65,5 @@ All items in the Marketplace should have proper spacing between them.
 
 Items in the Marketplace page don't have spacing and the text is broken.
 
-![alt text](C:\Users\cosmi\OneDrive\Desktop\bug report2.png)
+
+![bug report2](https://user-images.githubusercontent.com/85248462/212305021-7e2bb690-1ecd-45e8-8310-3f16e532e1a5.png)
