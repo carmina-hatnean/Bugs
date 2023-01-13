@@ -129,6 +129,29 @@ The website has a loading time of 9,74 seconds.
 ![bug - load time](https://user-images.githubusercontent.com/85248462/212410108-19020fd0-5900-4e83-8e5b-a47fdef303bb.png)
 
 -----------------------
+## Bug Report 5 - Broken Link
 
+**Priority and severity**
+
+P4 - Normal
+
+**Description**
+
+In a website it is important that all the links work. I checked if the website has a broken link.
+
+**Steps to reproduce**
+
+1. Go to https://ahrefs.com/broken-link-checker
+2. Type http://www.primaria-constanta.ro/ in the input field.
+
+**Expected result**
+
+We expected not to have any broken links.
+
+**Actual result**
+
+We have five broken links.
+
+![Broken link](https://user-images.githubusercontent.com/85248462/212412710-e74802df-aacd-4fee-aac5-430631cce926.png)
 
 
