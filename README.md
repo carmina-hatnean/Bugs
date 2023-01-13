@@ -67,3 +67,33 @@ Items in the Marketplace page don't have spacing and the text is broken.
 
 
 ![bug report2](https://user-images.githubusercontent.com/85248462/212305021-7e2bb690-1ecd-45e8-8310-3f16e532e1a5.png)
+
+----------------------------------
+## Bug Report 3 - Error in the browser console
+
+**Priority and severity**
+
+P4 - Normal
+
+**Description**
+
+A website must have a favicon.
+
+
+**Steps to reproduce**
+
+1. Go to https://www.apulum.ro/
+2. Type F12
+3. Click on Console
+
+**Expected result**
+
+Don't have any 404 errors in the console and we should see the favicon.
+
+**Actual result**
+
+Have this error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
+
+![favicon 1](https://user-images.githubusercontent.com/85248462/212406487-632528a2-171f-49f2-9011-dd9cb9b8b102.png)
+
+
