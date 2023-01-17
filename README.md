@@ -115,7 +115,7 @@ When I tried to click on the link 'www.e-licitacie.ro' from the website, it wasn
 
 **Expected result**
 
-The user expect that all the links on the website are working.
+The users expect that all the links on the website are working.
 
 **Actual result**
 
