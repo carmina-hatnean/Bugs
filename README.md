@@ -38,38 +38,8 @@ User is not logged and no error appears.
 
 User: carmina & Pass: 123456
 
---------------------------------
-## Bug Report 2 - Broken layout on Facebook Market
-
-**Priority and severity**
-
-P2 - High
-
-**Description**
-
-The Facebook Marketplace page should have the items arranged and spaced so that is easy to browse.
-This doesn't happen as no spacing is present around the images and the text is broken too.
-
-
-**Steps to reproduce**
-
-1. Login to Facebook
-2. Go to Marketplace
-
-**Expected result**
-
-All items in the Marketplace should have proper spacing between them.
-
-
-**Actual result**
-
-Items in the Marketplace page don't have spacing and the text is broken.
-
-
-![bug report2](https://user-images.githubusercontent.com/85248462/212305021-7e2bb690-1ecd-45e8-8310-3f16e532e1a5.png)
-
 ----------------------------------
-## Bug Report 3 - Error in the browser console
+## Bug Report 2 - Error in the browser console
 
 **Priority and severity**
 
@@ -97,7 +67,7 @@ Have an error in the console "Failed to load resource: the server responded with
 
 ----------------------
 
-## Bug Report 4 - Page load too long time
+## Bug Report 3 - Page load too long time
 
 **Priority and severity**
 
@@ -128,7 +98,7 @@ The website has a loading time of 9,74 seconds.
 ![bug - load time](https://user-images.githubusercontent.com/85248462/212410108-19020fd0-5900-4e83-8e5b-a47fdef303bb.png)
 
 -----------------------
-## Bug Report 5 - Broken Link
+## Bug Report 4 - Broken Link
 
 **Priority and severity**
 
@@ -155,7 +125,7 @@ I discovered three broken links.
 
 --------------------------
 
-## Bug Report 6 - 404 Page
+## Bug Report 5 - 404 Page
 
 **Priority and severity**
 
@@ -182,7 +152,7 @@ The website don't have a custome 404 page.
 ![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
 
 -------------------
-## Bug Report 7 - Responsive
+## Bug Report 6 - Responsive
 
 **Priority and severity**
 
