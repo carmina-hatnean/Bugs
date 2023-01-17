@@ -77,7 +77,7 @@ P4 - Normal
 
 **Description**
 
-A website must have a favicon.
+A website should have a favicon.
 
 
 **Steps to reproduce**
