@@ -47,7 +47,7 @@ P4 - Normal
 
 **Description**
 
-When I access the website, I notice that the website doesn't have a favicon and a discover an error in the console.
+When I go the website, I notice that it doesn't have a favicon and I discover an error in the console.
 
 **Steps to reproduce**
 
