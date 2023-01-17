@@ -77,7 +77,7 @@ P4 - Normal
 
 **Description**
 
-A website should have a favicon.
+A website should have a favicon and no error in the console.
 
 
 **Steps to reproduce**
