@@ -77,8 +77,7 @@ P4 - Normal
 
 **Description**
 
-A website should have a favicon and no error in the console.
-
+When I access the website, I notice that the website doesn't have a favicon and a discover an error in the console.
 
 **Steps to reproduce**
 
@@ -88,17 +87,17 @@ A website should have a favicon and no error in the console.
 
 **Expected result**
 
-Don't have any 404 errors in the console and we should see the favicon.
+The users should see the favicon.
 
 **Actual result**
 
-Have this error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
+Have an error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
 
 ![favicon 1](https://user-images.githubusercontent.com/85248462/212406487-632528a2-171f-49f2-9011-dd9cb9b8b102.png)
 
 ----------------------
 
-## Bug Report 4 - Page load time too long
+## Bug Report 4 - Page load too long time
 
 **Priority and severity**
 
@@ -106,7 +105,7 @@ P4 - Normal
 
 **Description**
 
-Website performance is low. When I trying to refresh the website this reload slow. The resources are too large and make it difficult to load the site.
+When I trying to refresh the website this reloaded slow. The website resources are too large and this affects its performance.
 
 **Steps to reproduce**
 
@@ -137,7 +136,7 @@ P4 - Normal
 
 **Description**
 
-In a website it is important that all the links work. I checked if the website has a broken link.
+When I tried to click on the link 'www.e-licitacie.ro' from the website, it wasn 't working, so I checked if the website has broken links.
 
 **Steps to reproduce**
 
@@ -146,11 +145,11 @@ In a website it is important that all the links work. I checked if the website h
 
 **Expected result**
 
-We expected not to have any broken links.
+The user expect that all the links on the website are working.
 
 **Actual result**
 
-We have five broken links.
+I discovered three broken links.
 
 ![Broken link](https://user-images.githubusercontent.com/85248462/212412710-e74802df-aacd-4fee-aac5-430631cce926.png)
 
@@ -164,7 +163,7 @@ P4 - Normal
 
 **Description**
 
-
+When I tried to type in the URL 'http://www.primaria-constanta.ro/asdfghjkl' I discovered that the website doesn't have a customized 404 page.
 
 **Steps to reproduce**
 
@@ -173,11 +172,11 @@ P4 - Normal
 
 **Expected result**
 
-We expected to have a custome 404 page.
+The users expected to have a 404 custom page.
 
 **Actual result**
 
-We don't have a custome 404 page.
+The website don't have a custome 404 page.
 
 
 ![404 page](https://user-images.githubusercontent.com/85248462/212414731-50a9c0f8-dfe0-42f7-8204-2db229a3e44b.png)
@@ -191,7 +190,7 @@ P4 - Normal
 
 **Description**
 
-
+I tried to access the website from the phone and I discovered that it isn't responsive and the buttons and text are too small..
 
 **Steps to reproduce**
 
@@ -202,11 +201,11 @@ P4 - Normal
 
 **Expected result**
 
-We expected to have a responsive website.
+The users expected to have a responsive website.
 
 **Actual result**
 
-
+The website isn't responsive and can't be easily typed from the phone.
 
 ![not responsive](https://user-images.githubusercontent.com/85248462/212416126-fd5ea943-1c66-4bd3-b366-b2b10234e601.png)
 
