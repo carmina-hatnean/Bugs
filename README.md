@@ -160,7 +160,7 @@ P4 - Normal
 
 **Description**
 
-I tried to access the website from the phone and I discovered that it isn't responsive and the buttons and text are too small.
+I tried to access the website from the phone and I discovered that it isn't responsive. The buttons and text are too small.
 
 **Steps to reproduce**
 
