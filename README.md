@@ -61,7 +61,7 @@ The users should see the favicon.
 
 **Actual result**
 
-Have an error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
+I have an error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
 
 ![favicon 1](https://user-images.githubusercontent.com/85248462/212406487-632528a2-171f-49f2-9011-dd9cb9b8b102.png)
 
