@@ -119,7 +119,7 @@ The user expect that all the links on the website are working.
 
 **Actual result**
 
-I discovered three broken links.
+The website have three broken links.
 
 ![Broken link](https://user-images.githubusercontent.com/85248462/212412710-e74802df-aacd-4fee-aac5-430631cce926.png)
 
