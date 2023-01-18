@@ -175,7 +175,7 @@ The users expected to have a responsive website.
 
 **Actual result**
 
-The website isn't responsive and can't be easily typed from the phone.
+The website is not responsive and its phone version is not user friendly.
 
 ![not responsive](https://user-images.githubusercontent.com/85248462/212416126-fd5ea943-1c66-4bd3-b366-b2b10234e601.png)
 
