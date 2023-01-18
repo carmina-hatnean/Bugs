@@ -61,7 +61,7 @@ The users should see the favicon.
 
 **Actual result**
 
-The website have an error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
+The website has an error in the console "Failed to load resource: the server responded with a status of 404 (Not Found)". Favicon not showing up.
 
 ![favicon 1](https://user-images.githubusercontent.com/85248462/212406487-632528a2-171f-49f2-9011-dd9cb9b8b102.png)
 
@@ -75,7 +75,7 @@ P4 - Normal
 
 **Description**
 
-When I trying to refresh the website this reloaded slow. The website resources are too large and this affects its performance.
+When I trying to reload the website the response time was low. The website's resources are too large and this affects its performance.
 
 **Steps to reproduce**
 
@@ -106,7 +106,7 @@ P4 - Normal
 
 **Description**
 
-When I tried to click on the link 'www.e-licitacie.ro' from the website, it wasn 't working, so I checked if the website has broken links.
+When I tried to acces the link 'www.e-licitacie.ro', it wasn 't working, so I checked if it has broken links.
 
 **Steps to reproduce**
 
@@ -115,11 +115,11 @@ When I tried to click on the link 'www.e-licitacie.ro' from the website, it wasn
 
 **Expected result**
 
-The users expect that all the links on the website are working.
+Users expect all the links on the website to work.
 
 **Actual result**
 
-The website have three broken links.
+The website is having three broken links.
 
 ![Broken link](https://user-images.githubusercontent.com/85248462/212412710-e74802df-aacd-4fee-aac5-430631cce926.png)
 
